@@ -1,0 +1,96 @@
+#container{
+	border: 1px solid;
+    margin-right: 478px;
+    /* margin: 0 auto; */
+    margin-left: 206px;
+    width: auto;
+    height: 325px;
+    background-color: gainsboro;
+    /* padding-left: 0px; */
+    padding-right: 64px;
+}
+#container1{
+	
+	margin-left: 8px;
+}
+#othercontainer {
+       border: 1px solid;
+    /* position: relative; */
+    /* margin: 0 auto; */
+    float: right;
+    margin-top: -210px;
+    margin-right: -41px;
+    /* margin-left: -16px; */
+    padding-right: 66px;
+    padding-left: 23px;
+        background-color: steelblue;
+	    height: 210px;
+}
+
+#button1{
+	border-color: cornflowerblue;
+    /* background: aqua; */
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 75px;
+        color: cornflowerblue;
+}
+#button2{
+	margin-left: 52px;
+    /* margin-right: -24px; */
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color:steelblue;
+    border-color: sienna;
+        color: white;
+}
+#input1{
+	    border: 1px solid red;
+	        width: 40%;
+    height: 23px;
+}
+#input2{
+	    border: 1px solid red;
+	        width: 40%;
+    height: 23px;
+}
+#input3{
+	    border: 1px solid red;
+	        width: 40%;
+    height: 23px;
+}
+#input4{
+	    border: 1px solid red;
+	        width: 40%;
+    height: 23px;
+}
+h2{
+	color: darkblue;
+}
+#input5{
+	    width: 116%;
+}
+#input6{
+	    width: 116%;
+}
+a{
+	margin-left: 176px;
+    font-size: 12px;
+}
+#label2{
+	color: white;
+}
+#label1{
+	    font-size: 11px;
+	        color: darkgray;
+}
+strong{
+	color: darkslateblue;
+}
+#label3{
+	color: gray;
+    font-weight: bolder;
+}
+#label4{
+	color: white;
+}
